@@ -1,2 +1,1 @@
-def doc_lambda():
-    print("Hello World!")
+print("Hello World!")
